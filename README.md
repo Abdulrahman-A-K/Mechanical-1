@@ -6,9 +6,8 @@
 
 * **Requirements**
     To complete this task, you will need the following:
-
-     *3D Design Software: Any 3D modeling tool such as Tinkercad, Cinema 4D, or          similar.
-     *Components:
+     3D Design Software: Any 3D modeling tool such as Tinkercad, Cinema 4D, or          similar.
+     * Components:
          * 6 Servo Motors
          * 4 Cross-Props
          * 2 Feet
